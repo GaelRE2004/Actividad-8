@@ -14,7 +14,7 @@
 			<nav>
 				<ul>
 					<li><a href="index.php">Inicio</a></li>
-					<li><a href="Alumno.php">Alumno</a></li>
+					<li><a href="Alumno.php">alumno</a></li>
 					<li><a href="materias.php">Materias</a></li>
 					<li><a href="contacto.php">Contacto</a></li>
 				</ul>
